@@ -1,2 +1,2 @@
-this us for creating conflict
+this is for creating conflict
 this is for stash

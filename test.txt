@@ -1,2 +1,2 @@
-this is ///this should be able to create conflict
+this is ///this should be able to create conflict//branch1
 this is for stash

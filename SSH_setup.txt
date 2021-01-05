@@ -1,0 +1,5 @@
+1.create a keypair using ssh-keygen
+2.put it in ~/.ssh/
+3.copy the key (except email) to your github in settings of your account in browser.
+4.you are good to go ....
+now you don't need token or password to push,,,,,and you can also set ssh url for remote.

@@ -1,2 +1,5 @@
+
 this is for creating conflict???////this is main trying for conflict
+//success...conflict occured. now trying add,commit,push from main
+
 this is for stash

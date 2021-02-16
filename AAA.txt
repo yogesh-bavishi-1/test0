@@ -1,5 +1,5 @@
-AAA.txt//this is a change is branch2
+This is B2 fix
 
-this is another branch2 change
+This is B2 another
 
-another change in B!2!!!
+Final B2 FIX!!!

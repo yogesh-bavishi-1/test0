@@ -1,0 +1,5 @@
+AAA.txt//this is a change is branch2
+
+this is another branch2 change
+
+another change in B!2!!!

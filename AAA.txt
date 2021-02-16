@@ -1,9 +1,7 @@
-AAA.txt//this is a change is  FIX(X2)
+
+AAA.txt//this is a change is develop  X2
 
 this is another develop change for continue
 
-
-Me also! 
-this is another X change
-
-another change in X!!! Me also!
+another change in dev!!!
+I want conflict
